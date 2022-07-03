@@ -1,6 +1,6 @@
 const Introduction = () => {
   return (
-    <div>
+    <div style={{textAlign:'center'}}>
       <p>Wazzap</p>
       <h1>John Doe</h1>
     </div>
